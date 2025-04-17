@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.2.13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0" version="26.2.13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2206" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2015" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -146,6 +146,9 @@
         </mxCell>
         <mxCell id="qV7Jv20aMx51wb-Dibgy-25" value="Purchase Parking Pass" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="qV7Jv20aMx51wb-Dibgy-11">
           <mxGeometry y="86" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="t_7tJUlSHLkXZCwPJLof-0" value="&lt;div&gt;-Login&lt;/div&gt;&lt;div&gt;email&lt;/div&gt;&lt;div&gt;senha&lt;/div&gt;&lt;div&gt;Logar()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Usuario&lt;/div&gt;&lt;div&gt;Id PK&lt;/div&gt;&lt;div&gt;Nome&lt;/div&gt;&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Senha&lt;/div&gt;&lt;div&gt;DataUltimoAcesso&lt;/div&gt;&lt;div&gt;bAdministrador&lt;/div&gt;&lt;div&gt;bExcluido&lt;/div&gt;&lt;div&gt;Sair()&lt;/div&gt;&lt;div&gt;SolicitarReporte()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Administrador&lt;/div&gt;&lt;div&gt;idUsuario FK&lt;/div&gt;&lt;div&gt;CriarUsuario()&lt;/div&gt;&lt;div&gt;EditarUsuario()&lt;/div&gt;&lt;div&gt;VisualizarReporte()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-UsuarioAreasInteresse&lt;/div&gt;&lt;div&gt;idUsuario FK&lt;/div&gt;&lt;div&gt;idAreaInteresse&lt;/div&gt;&lt;div&gt;ObterAreasInteresse()&lt;/div&gt;&lt;div&gt;ModificarAreasInteresse()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-AreaInteresse&lt;/div&gt;&lt;div&gt;Id&lt;/div&gt;&lt;div&gt;Descricao&lt;/div&gt;&lt;div&gt;Tipo (conhecimento/linguagem)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-150" y="520" width="230" height="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
