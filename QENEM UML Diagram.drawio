@@ -468,6 +468,15 @@
             <mxPoint x="-261" y="254" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Lo7v7ZP2rtgedo4GOy0i-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1..*&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1380" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lo7v7ZP2rtgedo4GOy0i-32" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1300.5" y="398" width="15" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Lo7v7ZP2rtgedo4GOy0i-33" value="Visualizar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1360" y="393" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
