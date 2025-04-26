@@ -44,7 +44,7 @@
         <mxCell id="qV7Jv20aMx51wb-Dibgy-9" value="&amp;nbsp;+ bExcluido : Boolean" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="200" width="188" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nvasFHb4Qg3l4fAu3OuT-20" value="&amp;nbsp;+ score : int" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
+        <mxCell id="nvasFHb4Qg3l4fAu3OuT-20" value="&amp;nbsp;+ Pontuacao : int" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="230" width="188" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nvasFHb4Qg3l4fAu3OuT-32" value="&amp;nbsp;+ idAreaInteresse : int" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
@@ -68,7 +68,7 @@
         <mxCell id="c03Vbg7cdXfMLgZm8cjn-8" value="&amp;nbsp;+ salvarInformacoes() : void" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="418" width="188" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nvasFHb4Qg3l4fAu3OuT-42" value="&amp;nbsp;+ calcularScore() : int" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
+        <mxCell id="nvasFHb4Qg3l4fAu3OuT-42" value="&amp;nbsp;+ calcularPontuacao() : int" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="448" width="188" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lo7v7ZP2rtgedo4GOy0i-55" value="&amp;nbsp;+ verificaLimiteDiario() : Boolean" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
