@@ -421,8 +421,8 @@
             <mxPoint x="-190" y="67" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qj0H2ry5J98sTHLXyiYv-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;0&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1035" y="620" as="geometry">
+        <mxCell id="Qj0H2ry5J98sTHLXyiYv-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;0..*&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1040" y="620" as="geometry">
             <mxPoint x="-317" y="32" as="offset" />
           </mxGeometry>
         </mxCell>
