@@ -49,8 +49,13 @@
         </mxCell>
         <mxCell id="CrI34jUcvFCijBm1rNz6-29" value="" style="endArrow=classic;html=1;rounded=0;" parent="CrI34jUcvFCijBm1rNz6-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="49" y="90" as="sourcePoint" />
-            <mxPoint x="239" y="90" as="targetPoint" />
+            <mxPoint x="50" y="100" as="sourcePoint" />
+            <mxPoint x="240" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X93EcSzINp0Eo5ylQojm-22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Responde questões&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CrI34jUcvFCijBm1rNz6-29">
+          <mxGeometry x="-0.3684" y="4" relative="1" as="geometry">
+            <mxPoint x="10" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CrI34jUcvFCijBm1rNz6-30" value="" style="endArrow=classic;html=1;rounded=0;" parent="CrI34jUcvFCijBm1rNz6-26" edge="1">
@@ -66,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CrI34jUcvFCijBm1rNz6-40" value="Processamento da resposta" style="swimlane;whiteSpace=wrap;html=1;" parent="CrI34jUcvFCijBm1rNz6-26" vertex="1">
-          <mxGeometry x="170" y="105" width="230" height="125" as="geometry" />
+          <mxGeometry x="170" y="120" width="230" height="125" as="geometry" />
         </mxCell>
         <mxCell id="CrI34jUcvFCijBm1rNz6-43" value="" style="endArrow=classic;html=1;rounded=0;" parent="CrI34jUcvFCijBm1rNz6-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -96,6 +101,12 @@
               <mxPoint x="370" y="50" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="X93EcSzINp0Eo5ylQojm-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;[Para cada uma das 10 questões]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CrI34jUcvFCijBm1rNz6-26">
+          <mxGeometry x="60" y="18" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X93EcSzINp0Eo5ylQojm-21" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Exibe questões e alternativas&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CrI34jUcvFCijBm1rNz6-26">
+          <mxGeometry x="60" y="48" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CrI34jUcvFCijBm1rNz6-34" value="" style="endArrow=classic;html=1;rounded=0;" parent="CrI34jUcvFCijBm1rNz6-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -201,6 +212,9 @@
             <mxPoint x="690" y="-111" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="X93EcSzINp0Eo5ylQojm-19" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Ok&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CrI34jUcvFCijBm1rNz6-15">
+          <mxGeometry x="490" y="178" width="40" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="CrI34jUcvFCijBm1rNz6-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-870" y="740" as="sourcePoint" />
@@ -297,6 +311,9 @@
         </mxCell>
         <mxCell id="X93EcSzINp0Eo5ylQojm-11" value="[&lt;font style=&quot;font-size: 10px;&quot;&gt;Limite nãp atendido]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1150" y="288" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X93EcSzINp0Eo5ylQojm-23" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Exibir próxima questão&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-865" y="428" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
