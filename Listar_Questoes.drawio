@@ -224,6 +224,9 @@
         <mxCell id="X93EcSzINp0Eo5ylQojm-19" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Ok&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CrI34jUcvFCijBm1rNz6-15">
           <mxGeometry x="490" y="178" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="X93EcSzINp0Eo5ylQojm-31" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Exibe botão &quot;Gerar mais questões&quot;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CrI34jUcvFCijBm1rNz6-15">
+          <mxGeometry x="70" y="488" width="180" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="CrI34jUcvFCijBm1rNz6-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-870" y="740" as="sourcePoint" />
@@ -288,16 +291,16 @@
         <mxCell id="CrI34jUcvFCijBm1rNz6-60" value=":RepositórioQuestões" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9E9E9E;" parent="1" vertex="1">
           <mxGeometry x="-270" y="30" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CrI34jUcvFCijBm1rNz6-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9E9E9E;" parent="1" vertex="1">
+        <mxCell id="CrI34jUcvFCijBm1rNz6-61" value=":TelaQuestõesUI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9E9E9E;" parent="1" vertex="1">
           <mxGeometry x="-920" y="755" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CrI34jUcvFCijBm1rNz6-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9E9E9E;" parent="1" vertex="1">
-          <mxGeometry x="-704" y="755" width="120" height="30" as="geometry" />
+        <mxCell id="CrI34jUcvFCijBm1rNz6-62" value=":GerenciadorQuestões" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9E9E9E;" parent="1" vertex="1">
+          <mxGeometry x="-704" y="755" width="124" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CrI34jUcvFCijBm1rNz6-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9E9E9E;" parent="1" vertex="1">
+        <mxCell id="CrI34jUcvFCijBm1rNz6-63" value=":ContadorLimiteDiário&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9E9E9E;" parent="1" vertex="1">
           <mxGeometry x="-510" y="755" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CrI34jUcvFCijBm1rNz6-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9E9E9E;" parent="1" vertex="1">
+        <mxCell id="CrI34jUcvFCijBm1rNz6-64" value=":RepositórioQuestões" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9E9E9E;" parent="1" vertex="1">
           <mxGeometry x="-270" y="755" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CrI34jUcvFCijBm1rNz6-66" value="" style="shape=link;html=1;rounded=0;" parent="1" target="CrI34jUcvFCijBm1rNz6-65" edge="1">
@@ -329,9 +332,6 @@
         </mxCell>
         <mxCell id="X93EcSzINp0Eo5ylQojm-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Exibir botão gerar mais()&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-865" y="668" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="X93EcSzINp0Eo5ylQojm-31" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Exibe botão &quot;Gerar mais questões&quot;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1120" y="678" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
