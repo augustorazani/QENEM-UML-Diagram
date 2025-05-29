@@ -166,7 +166,7 @@
         <mxCell id="6BkVtb6d-tIbxzMtLwiw-48" value="[Usuário ou senha errados]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="445" y="607" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6BkVtb6d-tIbxzMtLwiw-49" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="6BkVtb6d-tIbxzMtLwiw-49" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="749" width="430" height="277" as="geometry" />
         </mxCell>
         <mxCell id="6BkVtb6d-tIbxzMtLwiw-50" value="[Primeiro Login]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
