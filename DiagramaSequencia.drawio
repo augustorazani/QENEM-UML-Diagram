@@ -23,7 +23,7 @@
           <mxGeometry x="-8" y="82.22280922905748" width="80" height="106.99818181818182" as="geometry" />
         </mxCell>
         <mxCell id="NsajczHUsV50mXrBi48d-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="NsajczHUsV50mXrBi48d-21" vertex="1">
-          <mxGeometry x="26" y="357.17" width="10" height="39.83" as="geometry" />
+          <mxGeometry x="26" y="360.17" width="10" height="39.83" as="geometry" />
         </mxCell>
         <mxCell id="6BkVtb6d-tIbxzMtLwiw-77" value="1. Solicita ajuda" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NsajczHUsV50mXrBi48d-21">
           <mxGeometry x="60" y="206.47864708887585" width="90" height="33.405930102745565" as="geometry" />
@@ -242,7 +242,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6BkVtb6d-tIbxzMtLwiw-72" value="break" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="166" width="290" height="100" as="geometry" />
+          <mxGeometry x="20" y="164" width="290" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6BkVtb6d-tIbxzMtLwiw-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
