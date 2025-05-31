@@ -54,7 +54,7 @@
           <mxGeometry x="190" y="60" width="100" height="850" as="geometry" />
         </mxCell>
         <mxCell id="DWPmKB5S3XlxeZs-cIkL-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DWPmKB5S3XlxeZs-cIkL-4">
-          <mxGeometry x="45" y="62" width="10" height="98" as="geometry" />
+          <mxGeometry x="45" y="62" width="10" height="88" as="geometry" />
         </mxCell>
         <mxCell id="DWPmKB5S3XlxeZs-cIkL-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DWPmKB5S3XlxeZs-cIkL-4">
           <mxGeometry x="51" y="72" width="10" height="58" as="geometry" />
@@ -194,7 +194,7 @@
           <mxGeometry x="95" y="220" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DWPmKB5S3XlxeZs-cIkL-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="85" y="781" width="10" height="90" as="geometry" />
+          <mxGeometry x="85" y="817" width="10" height="41" as="geometry" />
         </mxCell>
         <mxCell id="DWPmKB5S3XlxeZs-cIkL-43" value="Clicar em &quot;Gerar mais questões" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
