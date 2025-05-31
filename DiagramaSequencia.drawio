@@ -152,9 +152,6 @@
         <mxCell id="qodFiUyS9P58C6VZK8tV-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="735" y="795" width="10" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="6BkVtb6d-tIbxzMtLwiw-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="61" y="37.97323011811028" width="80" height="29.54034448818898" as="geometry" />
-        </mxCell>
         <mxCell id="NsajczHUsV50mXrBi48d-18" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
           <mxGeometry x="91" y="92.42" width="20" height="877.58" as="geometry" />
         </mxCell>
@@ -165,7 +162,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NsajczHUsV50mXrBi48d-20" value="Administrador" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="62" y="-0.7571907709425219" width="80" height="106.99818181818182" as="geometry" />
+          <mxGeometry x="61" y="34.28" width="80" height="36.24" as="geometry" />
         </mxCell>
         <mxCell id="6BkVtb6d-tIbxzMtLwiw-77" value="Solicita ajuda" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140.5" y="135.49864708887586" width="90" height="33.405930102745565" as="geometry" />
@@ -191,12 +188,6 @@
             <mxPoint x="493.5" y="310.67546627186715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6BkVtb6d-tIbxzMtLwiw-70" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="220" y="16.00489062695756" width="80" height="72.79603787332678" as="geometry" />
-        </mxCell>
-        <mxCell id="6BkVtb6d-tIbxzMtLwiw-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="6BkVtb6d-tIbxzMtLwiw-70" vertex="1">
-          <mxGeometry y="21.76682386841588" width="80" height="29.263592432838767" as="geometry" />
-        </mxCell>
         <mxCell id="6BkVtb6d-tIbxzMtLwiw-73" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="255" y="151.64322033898307" width="10" height="21.69406779661017" as="geometry" />
         </mxCell>
@@ -204,7 +195,7 @@
           <mxGeometry x="501" y="429.75" width="10" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="NsajczHUsV50mXrBi48d-22" value="Estudante" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="16.00489062695756" width="80" height="72.79603787332677" as="geometry" />
+          <mxGeometry x="220" y="33" width="80" height="38.8" as="geometry" />
         </mxCell>
         <mxCell id="qodFiUyS9P58C6VZK8tV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
