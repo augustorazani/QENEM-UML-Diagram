@@ -22,23 +22,12 @@
         <mxCell id="DWPmKB5S3XlxeZs-cIkL-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DWPmKB5S3XlxeZs-cIkL-2">
           <mxGeometry x="51" y="290" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DWPmKB5S3XlxeZs-cIkL-30" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="DWPmKB5S3XlxeZs-cIkL-2" source="DWPmKB5S3XlxeZs-cIkL-11">
-          <mxGeometry x="-0.0046" relative="1" as="geometry">
-            <mxPoint x="42" y="700.0285714285715" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-3" y="810" />
-              <mxPoint x="-3" y="170" />
-            </Array>
-            <mxPoint x="42" y="170.02857142857135" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DWPmKB5S3XlxeZs-cIkL-37" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="DWPmKB5S3XlxeZs-cIkL-2" source="DWPmKB5S3XlxeZs-cIkL-11" target="DWPmKB5S3XlxeZs-cIkL-11">
           <mxGeometry x="-0.0046" relative="1" as="geometry">
             <mxPoint x="61" y="820" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="13" y="690" />
-              <mxPoint x="13" y="180" />
+              <mxPoint x="13" y="250" />
             </Array>
             <mxPoint x="40" y="180" as="targetPoint" />
             <mxPoint as="offset" />
@@ -79,7 +68,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DWPmKB5S3XlxeZs-cIkL-12" value="Redireciona Tela questoes" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="DWPmKB5S3XlxeZs-cIkL-12" value="Redireciona Tela questoes" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="DWPmKB5S3XlxeZs-cIkL-5">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="242" y="209.66" as="sourcePoint" />
             <mxPoint x="405.5" y="209.65999999999997" as="targetPoint" />
@@ -87,10 +76,11 @@
         </mxCell>
         <mxCell id="DWPmKB5S3XlxeZs-cIkL-13" value="retornaQuestao()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="666" y="310" as="sourcePoint" />
-            <mxPoint x="414.9999999999998" y="310" as="targetPoint" />
+            <mxPoint x="666" y="301" as="sourcePoint" />
+            <mxPoint x="414.9999999999998" y="301" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="490" y="310" />
+              <mxPoint x="600" y="301" />
+              <mxPoint x="490" y="301" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -185,6 +175,12 @@
         </mxCell>
         <mxCell id="DWPmKB5S3XlxeZs-cIkL-36" value="Exibe o botão &quot;Gerar mais questões&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DWPmKB5S3XlxeZs-cIkL-38" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="220" width="750" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="DWPmKB5S3XlxeZs-cIkL-39" value="[responder 10 questões]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="220" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
