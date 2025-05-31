@@ -162,7 +162,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NsajczHUsV50mXrBi48d-20" value="Administrador" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="61" y="34.28" width="80" height="36.24" as="geometry" />
+          <mxGeometry x="60.5" y="43.28" width="80" height="36.24" as="geometry" />
         </mxCell>
         <mxCell id="6BkVtb6d-tIbxzMtLwiw-77" value="Solicita ajuda" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140.5" y="135.49864708887586" width="90" height="33.405930102745565" as="geometry" />
@@ -195,7 +195,7 @@
           <mxGeometry x="501" y="429.75" width="10" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="NsajczHUsV50mXrBi48d-22" value="Estudante" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="33" width="80" height="38.8" as="geometry" />
+          <mxGeometry x="220" y="42" width="80" height="38.8" as="geometry" />
         </mxCell>
         <mxCell id="qodFiUyS9P58C6VZK8tV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
