@@ -99,7 +99,7 @@
             <mxPoint x="305.00000000000045" y="836" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6BkVtb6d-tIbxzMtLwiw-68" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Redireciona para interface principal&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="6BkVtb6d-tIbxzMtLwiw-68" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Redireciona para interface Área de Interesse&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="861" width="114" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6BkVtb6d-tIbxzMtLwiw-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" edge="1">
