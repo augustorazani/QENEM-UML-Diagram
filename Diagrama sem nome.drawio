@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.1">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1142" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1344" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="DWPmKB5S3XlxeZs-cIkL-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DWPmKB5S3XlxeZs-cIkL-1">
           <mxGeometry x="5" y="210" width="10" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="DWPmKB5S3XlxeZs-cIkL-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DWPmKB5S3XlxeZs-cIkL-1">
-          <mxGeometry x="5" y="698" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DWPmKB5S3XlxeZs-cIkL-2" value=":TelaQuestoesUI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="360" y="60" width="100" height="840" as="geometry" />
@@ -26,10 +23,21 @@
           <mxGeometry x="-0.0046" relative="1" as="geometry">
             <mxPoint x="61" y="820" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="13" y="690" />
-              <mxPoint x="13" y="250" />
+              <mxPoint x="-40" y="690" />
+              <mxPoint x="-40" y="180" />
             </Array>
             <mxPoint x="40" y="180" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DWPmKB5S3XlxeZs-cIkL-41" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="DWPmKB5S3XlxeZs-cIkL-2" source="DWPmKB5S3XlxeZs-cIkL-11" target="DWPmKB5S3XlxeZs-cIkL-11">
+          <mxGeometry x="-0.0046" relative="1" as="geometry">
+            <mxPoint x="40" y="810" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-10" y="810" />
+              <mxPoint x="-10" y="210" />
+            </Array>
+            <mxPoint x="51" y="370" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -181,6 +189,9 @@
         </mxCell>
         <mxCell id="DWPmKB5S3XlxeZs-cIkL-39" value="[responder 10 questões]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="95" y="220" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DWPmKB5S3XlxeZs-cIkL-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="85" y="781" width="10" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
