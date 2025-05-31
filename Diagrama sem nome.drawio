@@ -300,8 +300,8 @@
         <mxCell id="DWPmKB5S3XlxeZs-cIkL-74" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="85" y="136.14457325010721" width="10" height="21.69406779661017" as="geometry" />
         </mxCell>
-        <mxCell id="DWPmKB5S3XlxeZs-cIkL-75" value="Estudante" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="60" width="60" height="30" as="geometry" />
+        <mxCell id="DWPmKB5S3XlxeZs-cIkL-75" value="Administrador" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DWPmKB5S3XlxeZs-cIkL-76" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="673" y="406" width="10" height="34" as="geometry" />
