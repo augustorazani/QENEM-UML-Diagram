@@ -129,12 +129,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TDiomGOSvmwpNplc4qGV-29" value="(0,n)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="721" y="235" as="geometry">
+          <mxGeometry x="720" y="245" as="geometry">
             <mxPoint x="5" y="1" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="TDiomGOSvmwpNplc4qGV-30" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="860" y="232.5" as="geometry" />
         </mxCell>
         <mxCell id="TDiomGOSvmwpNplc4qGV-77" value="Usuario_Reporte" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="-270" y="245" width="210" height="120" as="geometry" />
@@ -925,6 +922,16 @@
         </mxCell>
         <mxCell id="TDiomGOSvmwpNplc4qGV-202" value="(0,n)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1372" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="TDiomGOSvmwpNplc4qGV-221" value="(1,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="413" y="236" as="geometry">
+            <mxPoint x="-1" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDiomGOSvmwpNplc4qGV-222" value="(1,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="852" y="228" as="geometry">
+            <mxPoint x="-1" y="2" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
