@@ -420,7 +420,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PUtDKY7gk_9w-eYAS1PP-66" value="email VARCHAR NOT NULL (100)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="PUtDKY7gk_9w-eYAS1PP-64">
+        <mxCell id="PUtDKY7gk_9w-eYAS1PP-66" value="email VARCHAR(100)&amp;nbsp;NOT NULL&amp;nbsp;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="PUtDKY7gk_9w-eYAS1PP-64">
           <mxGeometry x="30" width="249" height="30" as="geometry">
             <mxRectangle width="249" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -433,7 +433,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PUtDKY7gk_9w-eYAS1PP-69" value="senha VARCHAR NOT NULL (100)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="PUtDKY7gk_9w-eYAS1PP-67">
+        <mxCell id="PUtDKY7gk_9w-eYAS1PP-69" value="senha VARCHAR(100) NOT NULL&amp;nbsp;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="PUtDKY7gk_9w-eYAS1PP-67">
           <mxGeometry x="30" width="249" height="30" as="geometry">
             <mxRectangle width="249" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -446,7 +446,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PUtDKY7gk_9w-eYAS1PP-72" value="nomeCompleto VARCHAR NOT NULL (100)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="PUtDKY7gk_9w-eYAS1PP-70">
+        <mxCell id="PUtDKY7gk_9w-eYAS1PP-72" value="nomeCompleto VARCHAR(100) NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="PUtDKY7gk_9w-eYAS1PP-70">
           <mxGeometry x="30" width="249" height="30" as="geometry">
             <mxRectangle width="249" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -512,7 +512,7 @@
         </mxCell>
         <mxCell id="PUtDKY7gk_9w-eYAS1PP-88" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="480" as="sourcePoint" />
+            <mxPoint x="150" y="460" as="sourcePoint" />
             <mxPoint x="150" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
