@@ -221,7 +221,7 @@
             <mxPoint x="18" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TDiomGOSvmwpNplc4qGV-99" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="TDiomGOSvmwpNplc4qGV-99" value="(1,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-220" y="280" as="geometry">
             <mxPoint x="320" y="7" as="offset" />
           </mxGeometry>
