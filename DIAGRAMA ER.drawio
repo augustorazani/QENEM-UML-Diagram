@@ -723,14 +723,18 @@
         <mxCell id="TDiomGOSvmwpNplc4qGV-191" value="(0,n)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="10" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="TDiomGOSvmwpNplc4qGV-193" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="112" y="362" as="geometry" />
+        <mxCell id="TDiomGOSvmwpNplc4qGV-193" value="(1,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="355" as="geometry">
+            <mxPoint x="-1" y="2" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="TDiomGOSvmwpNplc4qGV-194" value="(0,n)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-190" y="490" as="geometry" />
         </mxCell>
-        <mxCell id="TDiomGOSvmwpNplc4qGV-196" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-290" y="490" as="geometry" />
+        <mxCell id="TDiomGOSvmwpNplc4qGV-196" value="(1,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-280" y="490" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AB6VXFFrFlec5eGhb8tk-1" value="AreaInteresse" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="620" width="250" height="120" as="geometry" />
