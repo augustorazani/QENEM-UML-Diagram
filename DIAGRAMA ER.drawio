@@ -792,7 +792,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AB6VXFFrFlec5eGhb8tk-1" value="AreaInteresse" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="802" y="473" width="240" height="120" as="geometry" />
+          <mxGeometry x="817" y="475" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AB6VXFFrFlec5eGhb8tk-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="AB6VXFFrFlec5eGhb8tk-1">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
@@ -947,7 +947,7 @@
           <mxGeometry x="787" y="535" as="geometry" />
         </mxCell>
         <mxCell id="TDiomGOSvmwpNplc4qGV-236" value="(1,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1058" y="537" as="geometry" />
+          <mxGeometry x="1071" y="538" as="geometry" />
         </mxCell>
         <mxCell id="TDiomGOSvmwpNplc4qGV-237" value="(0,N)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1323" y="440" as="geometry" />
